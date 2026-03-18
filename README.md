@@ -2,7 +2,7 @@
 # 👋 Hello Devs!, I'm Manuel Labrador, also known as:
 
 <p align="center">
-  <img src="gifgit.gif" width="999">
+  <img src="MannuDLab(BLKBG).gif" width="999">
 </p>
 
 <p align="center">
