@@ -22,7 +22,7 @@ a way to **build systems, solve problems, and transform ideas into interactive e
 
 # 🚀 About Me
 
-🔹 **Name:** Manuel D. Labrador Rodríguez  
+🔹 **Name:** Manuel D. Labrador R.
 🔹 **GitHub:** MannuDLab  
 
 🔹 **Main Interests:**
@@ -30,19 +30,19 @@ a way to **build systems, solve problems, and transform ideas into interactive e
 - 🎮 Game Development  
 - 🤖 Robotics and Embedded Systems  
 - 🧩 Problem Solving  
-- 🧠 Learning how complex systems work behind the scenes  
+- 🧠 Atomation Enthusiast
 
 🔹 I enjoy understanding **how things actually work**, from hardware connections to software architecture.
 
-🔹 I believe the best way to learn programming is **by building real projects**, experimenting, failing, improving, and iterating.
+🔹 I believe the best way to learn programming is **learning making it**, experimenting, failing, improving, and iterating.
 
 # 💡 My Philosophy
 
-### 🧠 Programming is Creative Engineering
+### 🧠 Programming its like a explorer, search the best ways, the most effective and efficient.
 
 Many people see programming as writing code.
 
-I see it as **designing invisible machines made of logic**.
+I see it as **the art of logic**.
 
 Just like in a theater production:
 
@@ -60,43 +60,30 @@ The programmer builds **the systems that make the world alive**.
 
 # 🛠 Technologies & Tools
 
-### 💻 Languages
+### 💻 Languages knowledge
 
-- Python  
-- C / C++  
 - Arduino  
+- HTML
+- Javascript
+- Python  
+- Rust
 - Learning more every day  
 
 ### ⚙️ Development Tools
 
-- Arduino IDE  
-- PyCharm  
+- Arduino IDE
+- Docker
 - Git  
-- GitHub  
-
+- GitHub
+- PyCharm 
+- WSL
+  
 ### 🔧 Hardware & Electronics
 
 - Arduino Uno  
-- Breadboards & electronic components  
+- Breadboards & electronic pasive components  
 - Motors & servomotors  
 - Sensors and controllers  
-
-# 🧪 Projects & Experiments
-
-Here on GitHub you will find projects where I explore different areas of technology.
-
-Some examples include:
-
-🤖 **Robotics Projects**  
-Building systems that combine hardware and software, such as robotic arms controlled through microcontrollers.
-
-🎮 **Game-related experiments**  
-Exploring mechanics, logic systems, and tools related to interactive development.
-
-🧠 **Learning Projects**  
-Repositories where I experiment with programming concepts and improve my technical skills.
-
-Each project represents **a step forward in my learning journey**.
 
 # 📚 What I'm Currently Learning
 
@@ -105,24 +92,14 @@ Each project represents **a step forward in my learning journey**.
 🤖 Working with hardware and microcontrollers  
 🧩 Developing stronger problem-solving skills  
 
-My goal is to become a developer capable of **building complex interactive systems**.
-
-# 🌟 What You Can Expect From My Repositories
-
-✔ Clear experimentation  
-✔ Iterative learning  
-✔ Curiosity-driven projects  
-✔ Practical engineering solutions  
-
-I strongly believe that **progress comes from building things**.
+My goal is to become a developer capable of **building complex interactive automation systems**.
 
 # 🤝 Collaboration & Opportunities
 
 If you are a developer, recruiter, or creator interested in:
 
 - Game development
-- Robotics
-- Embedded systems
+- Automation & Robotics
 - Creative programming
 
 Feel free to explore my repositories and connect.
@@ -131,7 +108,7 @@ Feel free to explore my repositories and connect.
 
 # 🎯 Long-Term Vision
 
-My long-term goal is to work on **interactive systems and games**, contributing to projects where technology and creativity meet.
+My long-term goal is to work on **Robotics Atomation systems,**,like in Advanced Domotics, I wanto to make the future domestic technology contributing to projects where that and creativity meet.
 
 Because at the end of the day:
 
