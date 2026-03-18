@@ -1,9 +1,8 @@
 
-# 👋 Hello Devs!, I'm Manuel
-# also known as **MannuDLab**
+# 👋 Hello Devs!, I'm Manuel Labrador, also known as:
 
 <p align="center">
-  <img src="ascii-art-text.png" width="500">
+  <img src="gifgit.gif" width="999">
 </p>
 
 <p align="center">
